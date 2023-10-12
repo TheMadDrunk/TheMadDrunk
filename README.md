@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi, I'm Hamza Alaoui 👋
+
+🎓 Final year student at ENSA Kenitra  
+👨‍💻 Developer  
+🕹️ Game Dev Enthusiast  
+🚀 Proficient in TypeScript, Java, C/C++, PHP, Python  
+💡 Tools: React, Node.js, Spring Boot  
+
+#### About Me
+
+🌐 Passionate coder since age 13, I love crafting solutions with code, and I'm especially enthusiastic about game development.
+
+#### What I Do
+
+🚀 Specializing in web and backend development with a focus on TypeScript, Java, and more.
+
+#### Get in Touch
+
+📫 Let's connect! [Email me](mailto:iophamza2@gmail.com).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMadDrunk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheMadDrunk/TheMadDrunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
