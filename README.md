@@ -12,7 +12,7 @@
 
 #### What I Do
 
-🚀 Specializing in web and backend development with a focus on TypeScript, Java, and more.
+🚀 Specializing in web and backend development with a focus on TypeScript, Java.
 
 #### Get in Touch
 
