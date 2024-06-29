@@ -1,6 +1,6 @@
 ### Hi, I'm Hamza Alaoui 👋
 
-🎓 Final year student at ENSA Kenitra  
+🎓 Software Engineer
 👨‍💻 Developer  
 🕹️ Game Dev Enthusiast  
 🚀 Proficient in TypeScript, Java, C/C++, PHP, Python  
